@@ -5,4 +5,4 @@ published: true
 ---
 
 As you can see, there's not much going on here.
-Why not head over to [my other nothing site](ksteinfe.com) to see alot more nothing?
+Why not head over to [my other nothing site](http://ksteinfe.com/) to see alot more nothing?
