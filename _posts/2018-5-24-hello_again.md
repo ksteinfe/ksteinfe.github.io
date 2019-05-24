@@ -9,7 +9,7 @@ permalink: /hello_again/
 # this is a heading
 As you can see, there's not much going on here!
 
-![alt_text](../images/first-post.jpg)
+![alt_text](../images/first-post.png)
 
 
 ## this is another
